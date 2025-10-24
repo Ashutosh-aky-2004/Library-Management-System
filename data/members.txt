@@ -1,0 +1,2 @@
+0,admin,ADMIN,m0,admin,admin@gmail.com
+1,ashu,MEMBER,m1,ashu,ashu@gmail.com
