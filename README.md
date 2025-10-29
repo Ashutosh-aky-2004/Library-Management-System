@@ -61,7 +61,7 @@ LibraryManagementSystem/
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
+   git clone https://github.com/Ashutosh-aky-2004/LibraryManagementSystem.git
    cd LibraryManagementSystem
    ```
 
@@ -102,19 +102,6 @@ Use `database.sql` to create tables for books, members, and transactions.
 
 ---
 
-## 🧑‍💻 Author
-
-**Ashutosh Kumar Yadav**  
-📧 [your.email@example.com]  
-💼 Passionate Java Developer | Focused on Clean Architecture and Scalable Systems
-
----
-
-## 📜 License
-
-This project is open-source under the **MIT License**.
-
----
 
 ## 🖼 Sample Menu (Console UI)
 
@@ -144,3 +131,4 @@ Due Date: 15-11-2025
 ```
 Thank you for using the Library Management System!
 ```
+
