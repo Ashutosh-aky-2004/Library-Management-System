@@ -17,24 +17,6 @@ It demonstrates strong **Object-Oriented Programming (OOP)** principles and can 
 
 ---
 
-## 🧩 Project Structure
-
-```
-LibraryManagementSystem/
-│
-├── src/
-│   ├── Book.java
-│   ├── Member.java
-│   ├── Library.java
-│   ├── Transaction.java
-│   └── Main.java
-│
-├── README.md
-└── (optional) database.sql   # for JDBC version
-```
-
----
-
 ## ⚙️ How It Works
 
 ### 🏗 Classes
@@ -61,7 +43,7 @@ LibraryManagementSystem/
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/Ashutosh-aky-2004/LibraryManagementSystem.git
+   git clone https://github.com/Ashutosh-aky-2004/Library-Management-System.git
    cd LibraryManagementSystem
    ```
 
@@ -131,4 +113,5 @@ Due Date: 15-11-2025
 ```
 Thank you for using the Library Management System!
 ```
+
 
