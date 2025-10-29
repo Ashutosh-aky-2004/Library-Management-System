@@ -57,20 +57,6 @@ It demonstrates strong **Object-Oriented Programming (OOP)** principles and can 
    java src/Main
    ```
 
----
-
-## 🗄️ Optional: Database Integration
-
-You can connect this system to a **MySQL database** using **JDBC**.  
-Update your `Library.java` or `DatabaseHelper.java` with the following details:
-
-```java
-String url = "jdbc:mysql://localhost:3306/librarydb";
-String user = "root";
-String password = "yourpassword";
-```
-
-Use `database.sql` to create tables for books, members, and transactions.
 
 ---
 
@@ -113,5 +99,6 @@ Due Date: 15-11-2025
 ```
 Thank you for using the Library Management System!
 ```
+
 
 
